@@ -1,0 +1,15 @@
+{
+  "name": "lipi-lang",
+  "version": "1.0.0",
+  "description": "A custom programming language compiler.",
+  "main": "compile.js",
+  "bin": {
+    "lipi": "lipi.js"
+  },
+  "scripts": {
+    "start": "node compile.js"
+  },
+  "keywords": ["compiler", "custom-language"],
+  "author": "",
+  "license": "MIT"
+}

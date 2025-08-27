@@ -1,0 +1,4 @@
+ye x = 6
+ye v = 7
+ye sum = x+v
+bol sum
